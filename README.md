@@ -1,2 +1,2 @@
 # estudos-django
-Projeto para entender e aplicar recursos básicos do framework Django.
+Projeto para entender e aplicar recursos do framework Django.
